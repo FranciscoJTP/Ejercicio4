@@ -1,0 +1,8 @@
+[user]
+	name = FranTP
+	email = FranciscoTP@gmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
